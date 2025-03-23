@@ -1,2 +1,2 @@
 # ParygmatObjektowy
-Zadania parobj
+Zadania od 1 do 5
