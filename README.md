@@ -1,0 +1,2 @@
+# ParygmatObjektowy
+Zadania parobj
