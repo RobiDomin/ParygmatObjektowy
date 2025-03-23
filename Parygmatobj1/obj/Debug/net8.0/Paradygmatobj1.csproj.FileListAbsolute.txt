@@ -1,0 +1,14 @@
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\Paradygmatobj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\Paradygmatobj1.AssemblyInfoInputs.cache
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\Paradygmatobj1.AssemblyInfo.cs
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\Paradygmatobj1.csproj.CoreCompileInputs.cache
+C:\Users\drakm\source\repos\Paradygmatobj1\bin\Debug\net8.0\Paradygmatobj1.exe
+C:\Users\drakm\source\repos\Paradygmatobj1\bin\Debug\net8.0\Paradygmatobj1.deps.json
+C:\Users\drakm\source\repos\Paradygmatobj1\bin\Debug\net8.0\Paradygmatobj1.runtimeconfig.json
+C:\Users\drakm\source\repos\Paradygmatobj1\bin\Debug\net8.0\Paradygmatobj1.dll
+C:\Users\drakm\source\repos\Paradygmatobj1\bin\Debug\net8.0\Paradygmatobj1.pdb
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\Paradygmatobj1.dll
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\refint\Paradygmatobj1.dll
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\Paradygmatobj1.pdb
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\Paradygmatobj1.genruntimeconfig.cache
+C:\Users\drakm\source\repos\Paradygmatobj1\obj\Debug\net8.0\ref\Paradygmatobj1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Paradygmatobj1/1.0.0": {
+        "runtime": {
+          "Paradygmatobj1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Paradygmatobj1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
