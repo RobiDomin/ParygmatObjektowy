@@ -1,0 +1,14 @@
+C:\Users\drakm\source\repos\Parygmatobj4\bin\Debug\net8.0\Parygmatobj4.exe
+C:\Users\drakm\source\repos\Parygmatobj4\bin\Debug\net8.0\Parygmatobj4.deps.json
+C:\Users\drakm\source\repos\Parygmatobj4\bin\Debug\net8.0\Parygmatobj4.runtimeconfig.json
+C:\Users\drakm\source\repos\Parygmatobj4\bin\Debug\net8.0\Parygmatobj4.dll
+C:\Users\drakm\source\repos\Parygmatobj4\bin\Debug\net8.0\Parygmatobj4.pdb
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\Parygmatobj4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\Parygmatobj4.AssemblyInfoInputs.cache
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\Parygmatobj4.AssemblyInfo.cs
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\Parygmatobj4.csproj.CoreCompileInputs.cache
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\Parygmatobj4.dll
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\refint\Parygmatobj4.dll
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\Parygmatobj4.pdb
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\Parygmatobj4.genruntimeconfig.cache
+C:\Users\drakm\source\repos\Parygmatobj4\obj\Debug\net8.0\ref\Parygmatobj4.dll
