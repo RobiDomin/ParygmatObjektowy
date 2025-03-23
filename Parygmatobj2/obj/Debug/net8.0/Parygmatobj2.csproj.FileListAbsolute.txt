@@ -1,0 +1,14 @@
+C:\Users\drakm\source\repos\Parygmatobj2\bin\Debug\net8.0\Parygmatobj2.exe
+C:\Users\drakm\source\repos\Parygmatobj2\bin\Debug\net8.0\Parygmatobj2.deps.json
+C:\Users\drakm\source\repos\Parygmatobj2\bin\Debug\net8.0\Parygmatobj2.runtimeconfig.json
+C:\Users\drakm\source\repos\Parygmatobj2\bin\Debug\net8.0\Parygmatobj2.dll
+C:\Users\drakm\source\repos\Parygmatobj2\bin\Debug\net8.0\Parygmatobj2.pdb
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\Parygmatobj2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\Parygmatobj2.AssemblyInfoInputs.cache
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\Parygmatobj2.AssemblyInfo.cs
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\Parygmatobj2.csproj.CoreCompileInputs.cache
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\Parygmatobj2.dll
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\refint\Parygmatobj2.dll
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\Parygmatobj2.pdb
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\Parygmatobj2.genruntimeconfig.cache
+C:\Users\drakm\source\repos\Parygmatobj2\obj\Debug\net8.0\ref\Parygmatobj2.dll
